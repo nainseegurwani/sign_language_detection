@@ -1,0 +1,6 @@
+opencv-python
+cvzone
+mediapipe
+tensorflow
+keras
+numpy
